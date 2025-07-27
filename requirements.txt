@@ -14,3 +14,6 @@ csv==1.0
 re ==2.2.1
 string==1.0.0
 io ==1.0.0
+transformers==4.37.2
+datasets==2.14.4
+torch==2.1.0
